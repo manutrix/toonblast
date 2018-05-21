@@ -255,14 +255,17 @@
                     <td>Maggysoleil</td>
                     <td>0</td>
                     <td>1</td>
+                    <td>0</td>
                 </tr>
                 <tr>
                     <td>Gjgjgj</td>
                     <td>0</td>
                     <td>1</td>
+                    <td>0</td>
                 </tr>
                 <tr>
                     <td>Brent</td>
+                    <td>0</td>
                     <td>0</td>
                     <td>0</td>
                 </tr>
@@ -270,9 +273,11 @@
                     <td>Josee</td>
                     <td>0</td>
                     <td>0</td>
+                    <td>0</td>
                 </tr>
                 <tr>
                     <td>Anna</td>
+                    <td>0</td>
                     <td>0</td>
                     <td>0</td>
                 </tr>
@@ -280,9 +285,11 @@
                     <td>Oilersrule</td>
                     <td>0</td>
                     <td>0</td>
+                    <td>0</td>
                 </tr>
                 <tr>
                     <td>Jane</td>
+                    <td>0</td>
                     <td>0</td>
                     <td>0</td>
                 </tr>
@@ -290,9 +297,11 @@
                     <td>Hdhhddgg</td>
                     <td>0</td>
                     <td>0</td>
+                    <td>0</td>
                 </tr>
                 <tr>
                     <td>Nkgf</td>
+                    <td>0</td>
                     <td>0</td>
                     <td>0</td>
                 </tr>
@@ -300,9 +309,11 @@
                     <td>Audrey</td>
                     <td>0</td>
                     <td>0</td>
+                    <td>0</td>
                 </tr>
                 <tr>
                     <td>Martinette</td>
+                    <td>0</td>
                     <td>0</td>
                     <td>0</td>
                 </tr>
