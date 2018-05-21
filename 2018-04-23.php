@@ -61,15 +61,15 @@
             <table class="table table-striped table-bordered">
                 <tr>
                     <th>Niveau</th>
-                    <td>23 290</td>
+                    <td>10 224</td>
                 </tr>
                 <tr>
                     <th>Dons</th>
-                    <td>1 324</td>
+                    <td>851</td>
                 </tr>
                 <tr>
                     <th>Progression</th>
-                    <td>1 212</td>
+                    <td>1 352</td>
                 </tr>
             </table>
             <h3>Top niveaux</h3>
@@ -84,23 +84,23 @@
                 <tbody>
                 <tr>
                     <td>Manouche</td>
-                    <td>1 489</td>
+                    <td>1 148</td>
                 </tr>
                 <tr>
                     <td>Patou</td>
-                    <td>1 020</td>
-                </tr>
-                <tr>
-                    <td>Tanisha</td>
-                    <td>1 004</td>
-                </tr>
-                <tr>
-                    <td>Meme</td>
-                    <td>999</td>
+                    <td>859</td>
                 </tr>
                 <tr>
                     <td>Kinou</td>
-                    <td>989</td>
+                    <td>828</td>
+                </tr>
+                <tr>
+                    <td>Maxx</td>
+                    <td>643</td>
+                </tr>
+                <tr>
+                    <td>Lili</td>
+                    <td>488</td>
                 </tr>
                 </tbody>
             </table>
@@ -116,23 +116,23 @@
                 <tbody>
                 <tr>
                     <td>Manouche</td>
-                    <td>191</td>
-                </tr>
-                <tr>
-                    <td>Kinou</td>
-                    <td>125</td>
-                </tr>
-                <tr>
-                    <td>Pippy</td>
-                    <td>98</td>
+                    <td>114</td>
                 </tr>
                 <tr>
                     <td>Patou</td>
-                    <td>87</td>
+                    <td>85</td>
                 </tr>
                 <tr>
-                    <td>Tanisha</td>
-                    <td>86</td>
+                    <td>Kinou</td>
+                    <td>79</td>
+                </tr>
+                <tr>
+                    <td>Mel</td>
+                    <td>72</td>
+                </tr>
+                <tr>
+                    <td>Toon</td>
+                    <td>69</td>
                 </tr>
                 </tbody>
             </table>
@@ -148,23 +148,23 @@
                 <tbody>
                 <tr>
                     <td>Manouche</td>
-                    <td>195</td>
+                    <td>143</td>
                 </tr>
                 <tr>
-                    <td>Pippy</td>
-                    <td>71</td>
+                    <td>Artisanal</td>
+                    <td>129</td>
                 </tr>
                 <tr>
-                    <td>Jen</td>
-                    <td>70</td>
+                    <td>Jim</td>
+                    <td>122</td>
                 </tr>
                 <tr>
-                    <td>Kinou</td>
-                    <td>67</td>
+                    <td>Martine</td>
+                    <td>95</td>
                 </tr>
                 <tr>
                     <td>Lili</td>
-                    <td>67</td>
+                    <td>90</td>
                 </tr>
                 </tbody>
             </table>
@@ -179,24 +179,24 @@
                 </thead>
                 <tbody>
                 <tr>
-                    <td>Patrick</td>
-                    <td>185</td>
+                    <td></td>
+                    <td></td>
                 </tr>
                 <tr>
-                    <td>Manouche</td>
-                    <td>124</td>
+                    <td></td>
+                    <td></td>
                 </tr>
                 <tr>
-                    <td>Fler</td>
-                    <td>72</td>
+                    <td></td>
+                    <td></td>
                 </tr>
                 <tr>
-                    <td>Ratelle</td>
-                    <td>58</td>
+                    <td></td>
+                    <td></td>
                 </tr>
                 <tr>
-                    <td>Momo</td>
-                    <td>52</td>
+                    <td></td>
+                    <td></td>
                 </tr>
                 </tbody>
             </table>
@@ -212,28 +212,23 @@
                 </thead>
                 <tbody>
                 <tr>
-                    <td>Rockers</td>
-                    <td>21</td>
+                    <td>Beth</td>
+                    <td>15</td>
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td>Ratelle</td>
-                    <td>16</td>
-                    <td>1</td>
-                </tr>
-                <tr>
-                    <td>F K Boe Pleh</td>
-                    <td>32</td>
-                    <td>4</td>
-                </tr>
-                <tr>
-                    <td>Amy</td>
-                    <td>9</td>
+                    <td>Pauline</td>
+                    <td>15</td>
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td>Patrick</td>
-                    <td>?? Beaucoup</td>
+                    <td>Hdhhddgg</td>
+                    <td>11</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Marie-Eve</td>
+                    <td>8</td>
                     <td>0</td>
                 </tr>
                 </tbody>
@@ -252,8 +247,8 @@
                 </thead>
                 <tbody>
                 <tr>
-                    <td>Dman</td>
-                    <td>1</td>
+                    <td>Shay</td>
+                    <td>0</td>
                     <td>0</td>
                     <td>0</td>
                 </tr>

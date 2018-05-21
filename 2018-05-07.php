@@ -39,7 +39,7 @@
             </button>
             <img class="logo" src="images/logo.png">
         </div>
-        <span class="navbar-brand">La p'tite vie</span><span class="navbar-brand">2018-05-14</span>
+        <span class="navbar-brand">La p'tite vie</span><span class="navbar-brand">2018-05-07</span>
 
     </div>
 </nav>
@@ -61,15 +61,15 @@
             <table class="table table-striped table-bordered">
                 <tr>
                     <th>Niveau</th>
-                    <td>23 290</td>
+                    <td>16 593</td>
                 </tr>
                 <tr>
                     <th>Dons</th>
-                    <td>1 324</td>
+                    <td>1 050</td>
                 </tr>
                 <tr>
                     <th>Progression</th>
-                    <td>1 212</td>
+                    <td>1 058</td>
                 </tr>
             </table>
             <h3>Top niveaux</h3>
@@ -84,23 +84,23 @@
                 <tbody>
                 <tr>
                     <td>Manouche</td>
-                    <td>1 489</td>
+                    <td>1 294</td>
                 </tr>
                 <tr>
                     <td>Patou</td>
-                    <td>1 020</td>
+                    <td>984</td>
                 </tr>
                 <tr>
                     <td>Tanisha</td>
-                    <td>1 004</td>
-                </tr>
-                <tr>
-                    <td>Meme</td>
-                    <td>999</td>
+                    <td>950</td>
                 </tr>
                 <tr>
                     <td>Kinou</td>
-                    <td>989</td>
+                    <td>922</td>
+                </tr>
+                <tr>
+                    <td>Maxx</td>
+                    <td>732</td>
                 </tr>
                 </tbody>
             </table>
@@ -116,23 +116,23 @@
                 <tbody>
                 <tr>
                     <td>Manouche</td>
-                    <td>191</td>
-                </tr>
-                <tr>
-                    <td>Kinou</td>
-                    <td>125</td>
+                    <td>118</td>
                 </tr>
                 <tr>
                     <td>Pippy</td>
-                    <td>98</td>
+                    <td>104</td>
                 </tr>
                 <tr>
-                    <td>Patou</td>
-                    <td>87</td>
+                    <td>Kinou</td>
+                    <td>95</td>
                 </tr>
                 <tr>
                     <td>Tanisha</td>
                     <td>86</td>
+                </tr>
+                <tr>
+                    <td>Patou</td>
+                    <td>85</td>
                 </tr>
                 </tbody>
             </table>
@@ -147,24 +147,24 @@
                 </thead>
                 <tbody>
                 <tr>
-                    <td>Manouche</td>
-                    <td>195</td>
+                    <td>Sue</td>
+                    <td>129</td>
                 </tr>
                 <tr>
                     <td>Pippy</td>
-                    <td>71</td>
-                </tr>
-                <tr>
-                    <td>Jen</td>
-                    <td>70</td>
-                </tr>
-                <tr>
-                    <td>Kinou</td>
-                    <td>67</td>
+                    <td>123</td>
                 </tr>
                 <tr>
                     <td>Lili</td>
-                    <td>67</td>
+                    <td>98</td>
+                </tr>
+                <tr>
+                    <td>Manouche</td>
+                    <td>72</td>
+                </tr>
+                <tr>
+                    <td>Patou</td>
+                    <td>56</td>
                 </tr>
                 </tbody>
             </table>
@@ -179,24 +179,24 @@
                 </thead>
                 <tbody>
                 <tr>
-                    <td>Patrick</td>
-                    <td>185</td>
+                    <td>Lili</td>
+                    <td>97</td>
+                </tr>
+                <tr>
+                    <td>Jim</td>
+                    <td>66</td>
+                </tr>
+                <tr>
+                    <td>Pippy</td>
+                    <td>61</td>
                 </tr>
                 <tr>
                     <td>Manouche</td>
-                    <td>124</td>
-                </tr>
-                <tr>
-                    <td>Fler</td>
-                    <td>72</td>
-                </tr>
-                <tr>
-                    <td>Ratelle</td>
                     <td>58</td>
                 </tr>
                 <tr>
-                    <td>Momo</td>
-                    <td>52</td>
+                    <td>Kinou</td>
+                    <td>51</td>
                 </tr>
                 </tbody>
             </table>
@@ -212,28 +212,13 @@
                 </thead>
                 <tbody>
                 <tr>
-                    <td>Rockers</td>
-                    <td>21</td>
+                    <td>Car</td>
+                    <td>29</td>
                     <td>0</td>
                 </tr>
                 <tr>
-                    <td>Ratelle</td>
+                    <td>FuzzBuster</td>
                     <td>16</td>
-                    <td>1</td>
-                </tr>
-                <tr>
-                    <td>F K Boe Pleh</td>
-                    <td>32</td>
-                    <td>4</td>
-                </tr>
-                <tr>
-                    <td>Amy</td>
-                    <td>9</td>
-                    <td>0</td>
-                </tr>
-                <tr>
-                    <td>Patrick</td>
-                    <td>?? Beaucoup</td>
                     <td>0</td>
                 </tr>
                 </tbody>
@@ -252,8 +237,7 @@
                 </thead>
                 <tbody>
                 <tr>
-                    <td>Dman</td>
-                    <td>1</td>
+                    <td>Arithmix</td>
                     <td>0</td>
                     <td>0</td>
                 </tr>
